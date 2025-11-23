@@ -1,4 +1,4 @@
-** This is untested as I have no access to runninghub. It might work, It maight not. 
+** This is untested as I have no access to runninghub. It might work, It might not. 
 
 # ComfyUI RunningHub Integration
 
