@@ -1,3 +1,5 @@
+** This is untested as I have no access to runninghub. It might work, It maight not. 
+
 # ComfyUI RunningHub Integration
 
 Custom ComfyUI nodes for integrating RunningHub's AI image and video generation services into your workflows.
